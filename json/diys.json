@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9998,
+    "name": "打雪仗",
+    "suffix": "",
+    "element": "水",
+    "series": "试玩",
+    "rank": "天",
+    "consume": "1",
+    "atk": "",
+    "hp": "",
+    "ability": "使一个生灵的\n生命-1；\n回合结束时:\n该生灵操作者\n获得一张【打雪仗】",
+    "type": "法术",
+    "category": "连锁法术"
+  },
+  {
+    "id": 1005,
+    "name": "吴下阿蒙",
+    "suffix": "",
+    "element": "金",
+    "series": "开天",
+    "rank": "天",
+    "consume": "7",
+    "atk": "6",
+    "hp": "17",
+    "ability": "拿好500仙币，\n请当作无事发生。",
+    "type": "生灵",
+    "category": "佛门"
+  }]

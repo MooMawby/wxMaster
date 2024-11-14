@@ -1,0 +1,52 @@
+{"frames": {
+
+"diy_btn":
+{
+	"frame": {"x":1,"y":268,"w":139,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":51},
+	"sourceSize": {"w":139,"h":51}
+},
+"green":
+{
+	"frame": {"x":1,"y":1,"w":294,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":87},
+	"sourceSize": {"w":294,"h":87}
+},
+"ill_btn":
+{
+	"frame": {"x":142,"y":268,"w":139,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":51},
+	"sourceSize": {"w":139,"h":51}
+},
+"red":
+{
+	"frame": {"x":1,"y":90,"w":294,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":87},
+	"sourceSize": {"w":294,"h":87}
+},
+"yellow":
+{
+	"frame": {"x":1,"y":179,"w":294,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":87},
+	"sourceSize": {"w":294,"h":87}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "btns.png",
+	"format": "RGBA8888",
+	"size": {"w":296,"h":320},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:22dbafdfdf6b21a1003724d4faaaa1cc:207e285bcbce24ad51767bfe96d7eec6:de2a4fe67d2451b637ba1527a5f89bc3$"
+}
+}

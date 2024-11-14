@@ -1,0 +1,172 @@
+{"frames": {
+
+"CHU_FA_FA_SHU":
+{
+	"frame": {"x":209,"y":0,"w":208,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":208,"h":61},
+	"sourceSize": {"w":213,"h":64}
+},
+"FA_SHU":
+{
+	"frame": {"x":216,"y":179,"w":100,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":1,"w":100,"h":61},
+	"sourceSize": {"w":128,"h":64}
+},
+"FO_MEN":
+{
+	"frame": {"x":114,"y":189,"w":102,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":102,"h":63},
+	"sourceSize": {"w":128,"h":64}
+},
+"GUI_LI":
+{
+	"frame": {"x":111,"y":252,"w":106,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":106,"h":62},
+	"sourceSize": {"w":128,"h":64}
+},
+"LEI_SHEN":
+{
+	"frame": {"x":217,"y":244,"w":104,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":104,"h":64},
+	"sourceSize": {"w":128,"h":64}
+},
+"LIAN_SUO_FA_SHU":
+{
+	"frame": {"x":0,"y":0,"w":209,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":62},
+	"sourceSize": {"w":213,"h":64}
+},
+"SAN_XIAN":
+{
+	"frame": {"x":209,"y":61,"w":113,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":113,"h":58},
+	"sourceSize": {"w":128,"h":64}
+},
+"SHEN_GUAN":
+{
+	"frame": {"x":316,"y":180,"w":106,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":106,"h":64},
+	"sourceSize": {"w":128,"h":64}
+},
+"SHEN_SHOU":
+{
+	"frame": {"x":322,"y":61,"w":107,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":107,"h":64},
+	"sourceSize": {"w":128,"h":64}
+},
+"SHENG_LING_ZHUANG_BEI":
+{
+	"frame": {"x":0,"y":126,"w":206,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":1,"w":206,"h":63},
+	"sourceSize": {"w":213,"h":64}
+},
+"SHUI_ZU":
+{
+	"frame": {"x":323,"y":307,"w":106,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":106,"h":58},
+	"sourceSize": {"w":128,"h":64}
+},
+"TIAN_JIANG":
+{
+	"frame": {"x":217,"y":308,"w":106,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":106,"h":61},
+	"sourceSize": {"w":128,"h":64}
+},
+"TIAN_XIAN":
+{
+	"frame": {"x":318,"y":125,"w":107,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":107,"h":55},
+	"sourceSize": {"w":128,"h":64}
+},
+"YAO_GUAI":
+{
+	"frame": {"x":0,"y":313,"w":109,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":2,"w":109,"h":56},
+	"sourceSize": {"w":128,"h":64}
+},
+"YAO_XIAN":
+{
+	"frame": {"x":109,"y":314,"w":108,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":2,"w":108,"h":55},
+	"sourceSize": {"w":128,"h":64}
+},
+"YI_LING":
+{
+	"frame": {"x":0,"y":251,"w":111,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":111,"h":62},
+	"sourceSize": {"w":128,"h":64}
+},
+"YI_REN":
+{
+	"frame": {"x":0,"y":189,"w":114,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":114,"h":62},
+	"sourceSize": {"w":128,"h":64}
+},
+"YING_HUN":
+{
+	"frame": {"x":206,"y":119,"w":112,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":112,"h":60},
+	"sourceSize": {"w":128,"h":64}
+},
+"ZHU_JUE_ZHUANG_BEI":
+{
+	"frame": {"x":0,"y":62,"w":206,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":206,"h":64},
+	"sourceSize": {"w":213,"h":64}
+},
+"ZHUANG_BEI":
+{
+	"frame": {"x":321,"y":244,"w":104,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":104,"h":63},
+	"sourceSize": {"w":128,"h":64}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "category.png",
+	"format": "RGBA8888",
+	"size": {"w":429,"h":369},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:23bd16bb2d3ac5d2a3c8ae532accb849:cfc27c77f2eb7208207598a2a8ba7100:408e5d0f968b716cae15af8eefb3401e$"
+}
+}
